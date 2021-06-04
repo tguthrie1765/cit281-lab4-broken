@@ -1,3 +1,5 @@
+![img fastify](https://www.fastify.io/images/fastify-logo-inverted.2180cc6b1919d47a.png)
+
 In this lab I  initialized a Fastify Node.js web server. I also learned how to add a second route with query parameters. 
 
 <br>
